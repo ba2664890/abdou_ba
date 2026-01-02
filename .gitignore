@@ -1,0 +1,28 @@
+# Dépendances
+node_modules/
+.npm/
+.yarn/
+
+# Fichiers de build
+dist/
+build/
+.cache/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+*.log
+
+# Environnement
+.env
+.env.local
+.env.production
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Vercel
+.vercel
